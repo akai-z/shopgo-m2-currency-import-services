@@ -1,5 +1,5 @@
-Currency Import Services
-========================
+Currency Import Services `[UNMAINTAINED]`
+=========================================
 
 [![Dependency Status](https://www.versioneye.com/user/projects/56818d62eb4f470030000219/badge.svg)](https://www.versioneye.com/user/projects/56818d62eb4f470030000219)
 [![GitHub version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/shopgo-magento2/currency-import-services/releases/tag/1.0.0)
